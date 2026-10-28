@@ -1,0 +1,36 @@
+<resources>
+    <string name="daily_verse_widget_description">ఈరోజు బైబిల్ వాక్యం</string><string name="lectionary_widget_description">ఈరోజు మాస్ పఠనాలు</string>
+    <string name="tab_today">ఈరోజు</string><string name="tab_readings">పఠనాలు</string><string name="tab_bible">బైబిల్</string><string name="tab_library">గ్రంథాలయం</string>
+    <string name="listen">వినండి</string><string name="previous_chapter">‹ మునుపటి</string><string name="next_chapter">తర్వాతి ›</string>
+    <string name="search_bible">బైబిల్‌లో వెతకండి</string><string name="search_this_bible">ఈ బైబిల్‌లో వెతకండి</string><string name="search_word_or_phrase">పదం లేదా వాక్యం</string><string name="no_matches">ఏ ఫలితాలు కనబడలేదు.</string>
+    <string name="saved_verses">దాచిన వచనాలు</string><string name="bookmarks_empty">మీ బుక్‌మార్క్‌లు ఇక్కడ కనిపిస్తాయి.</string><string name="continue_reading">చదవడం కొనసాగించండి</string><string name="history_empty">మీరు చదివిన అధ్యాయాలు ఇక్కడ కనిపిస్తాయి.</string>
+    <string name="note_on_verse">వచనం %1$d పై గమనిక</string><string name="personal_note">వ్యక్తిగత గమనిక</string><string name="save">దాచండి</string><string name="cancel">రద్దు</string><string name="close">మూసివేయండి</string>
+    <string name="today_heading">ఈరోజు</string><string name="today_need_prompt">ఈరోజు మీ మనసులో ఏముంది?</string><string name="daily_verse_heading">ఈరోజు వాక్యం</string><string name="read_this_chapter">ఈ అధ్యాయాన్ని చదవండి</string><string name="read_in_context">సందర్భంతో చదవండి</string><string name="context">సందర్భం</string><string name="church_fathers">పితృసభ్యుల నుండి</string><string name="carry_with_you">దీనిని మీతో ఉంచుకోండి</string>
+    <string name="lectionary_heading">దినసరి మాస్ పఠనాలు</string><string name="today_button">ఈరోజు</string><string name="calendar_unavailable">క్యాలెండర్ సమాచారం అందుబాటులో లేదు.</string><string name="citations_missing">ఈ తేదీకి పఠన సూచనలు ఇంకా అందుబాటులో లేవు.</string><string name="open_in_bible">బైబిల్‌లో తెరవండి</string>
+    <string name="library_heading">గ్రంథాలయం</string><string name="translations_heading">అనువాదాలు</string><string name="widgets_heading">విడ్జెట్‌లు</string><string name="widgets_empty">Verbum విడ్జెట్‌లు ఇంకా జోడించబడలేదు.</string><string name="edit">సవరించండి</string><string name="add_verse">వచనం జోడించండి</string><string name="add_lectionary">పఠనాలు జోడించండి</string><string name="download">డౌన్‌లోడ్</string><string name="installed">ఇన్‌స్టాల్ చేయబడింది</string><string name="source_license">మూలం మరియు లైసెన్స్</string>
+    <string name="daily_reflection_unavailable">ఈరోజు ధ్యానం అందుబాటులో లేదు.</string><string name="offline_bible_missing">ఆఫ్‌లైన్ బైబిల్ ఇన్‌స్టాల్ కాలేదు.</string><string name="region_66_warning">కొన్ని సంచికల్లో 66 పుస్తకాలే ఉన్నాయి; అదనపు ధర్మగ్రంథాలు లేవు.</string><string name="read_complete_canon">పూర్తి కాథలిక్ గ్రంథాల కోసం %1$sలో చదవండి</string><string name="verse_number">వచనం %1$d</string>
+    <string name="previous_verse">మునుపటి వచనం</string><string name="next_verse">తర్వాతి వచనం</string><string name="pause">ఆపండి</string><string name="play">ప్రారంభించండి</string><string name="stop">నిలిపివేయండి</string><string name="daily_verse_widget">ఈరోజు వాక్యం</string><string name="daily_lectionary_widget">ఈరోజు మాస్ పఠనాలు</string><string name="widget_instance">విడ్జెట్ %1$d</string><string name="use_translation">ఈ అనువాదాన్ని ఉపయోగించండి</string><string name="active_translation">ప్రస్తుత అనువాదం</string><string name="full_catholic_set_default">డిఫాల్ట్ సంచిక · పూర్తి కాథలిక్ గ్రంథాలు · ఆధునిక ఆంగ్లం</string><string name="font_scale_label">అక్షర పరిమాణం</string><string name="liturgical_tradition">ఆరాధనా సంప్రదాయం</string>
+    <string name="need_all">అన్నీ</string><string name="need_anxiety">ఆందోళన</string><string name="need_grief">దుఃఖం</string><string name="need_guidance">మార్గదర్శకం</string><string name="need_peace">శాంతి</string><string name="need_hope">ఆశ</string><string name="need_trust">విశ్వాసం</string><string name="need_hardship">కష్టాలు</string>
+    <string name="reading_history">చదివిన చరిత్ర</string><string name="toggle_bookmark">బుక్‌మార్క్ మార్చండి</string><string name="toggle_highlight">హైలైట్ మార్చండి</string><string name="add_or_edit_note">గమనిక జోడించండి లేదా సవరించండి</string><string name="stop_playback">ప్లేబ్యాక్ ఆపండి</string>
+    <string name="coming_soon">త్వరలో</string>
+    <string name="regional_catholic_editions_coming_soon">మలయాళం, తమిళం, హిందీ, తెలుగు, కన్నడ, మరాఠీ భాషల్లో పూర్తి కాథలిక్ బైబిల్ సంచికలు త్వరలో అందుబాటులోకి వస్తాయి. దిగువ ప్రాంతీయ డౌన్‌లోడ్‌లలో 66 పుస్తకాలున్నాయి.</string>
+    <string name="complete_catholic_edition_coming_soon">పూర్తి 73 పుస్తకాల కాథలిక్ సంచిక త్వరలో</string>
+    <string name="additional_rites_coming_soon">ఇతర కాథలిక్ ఆరాధనా సంప్రదాయాలు, వాటి క్యాలెండర్లు త్వరలో అందుబాటులోకి వస్తాయి.</string>
+    <string name="readings_for_date_coming_soon">ఈ తేదీకి మాస్ పఠన సూచనలు త్వరలో అందుబాటులోకి వస్తాయి.</string>
+    <string name="readings_data_coming_soon">ఈ తేదీకి పఠనాలు త్వరలో అందుబాటులోకి వస్తాయి.</string>
+    <string name="widget_reading_data_missing">ఈ తేదీకి సంబంధించిన పఠన సమాచారం ప్రస్తుతం అందుబాటులో లేదు.</string>
+    <string name="short_verse_widget">లాక్ స్క్రీన్ కోసం చిన్న వచనం</string>
+    <string name="add_short_verse">చిన్న వచన విడ్జెట్‌ను జోడించండి</string>
+    <string name="tab_settings">సెట్టింగ్‌లు</string>
+    <string name="settings_heading">సెట్టింగ్‌లు</string>
+    <string name="appearance">రూపం</string>
+    <string name="theme_mode">థీమ్</string>
+    <string name="theme_system">సిస్టమ్</string>
+    <string name="theme_light">లైట్</string>
+    <string name="theme_dark">డార్క్</string>
+    <string name="dynamic_colors_description">Android 12 మరియు తర్వాతి వెర్షన్‌లలో, అందుబాటులో ఉంటే రంగులు మీ సిస్టమ్ వాల్‌పేపర్‌ను అనుసరిస్తాయి.</string>
+    <string name="bible_display">బైబిల్ ప్రదర్శన</string>
+    <string name="default_translation">డిఫాల్ట్ బైబిల్ వెర్షన్</string>
+    <string name="reader_text_preview">“యెహోవా నా కాపరి; నాకు కొదువ లేదు.”</string>
+    <string name="widget_contrast_note">ఎంచుకున్న రంగుపై స్పష్టంగా చదవగలిగేలా అవసరమైతే వచన రంగు మారుతుంది.</string>
+</resources>

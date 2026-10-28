@@ -1,0 +1,36 @@
+<resources>
+    <string name="daily_verse_widget_description">ಇಂದಿನ ಬೈಬಲ್ ವಚನ</string><string name="lectionary_widget_description">ಇಂದಿನ ಮಸ್ಸಿನ ವಾಚನಗಳು</string>
+    <string name="tab_today">ಇಂದು</string><string name="tab_readings">ವಾಚನಗಳು</string><string name="tab_bible">ಬೈಬಲ್</string><string name="tab_library">ಗ್ರಂಥಾಲಯ</string>
+    <string name="listen">ಆಲಿಸಿ</string><string name="previous_chapter">‹ ಹಿಂದಿನದು</string><string name="next_chapter">ಮುಂದಿನದು ›</string>
+    <string name="search_bible">ಬೈಬಲ್ ಹುಡುಕಿ</string><string name="search_this_bible">ಈ ಬೈಬಲ್‌ನಲ್ಲಿ ಹುಡುಕಿ</string><string name="search_word_or_phrase">ಪದ ಅಥವಾ ವಾಕ್ಯಭಾಗ</string><string name="no_matches">ಯಾವುದೇ ಫಲಿತಾಂಶ ಸಿಗಲಿಲ್ಲ.</string>
+    <string name="saved_verses">ಉಳಿಸಿದ ವಚನಗಳು</string><string name="bookmarks_empty">ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.</string><string name="continue_reading">ಓದುವುದನ್ನು ಮುಂದುವರಿಸಿ</string><string name="history_empty">ನೀವು ಓದಿದ ಅಧ್ಯಾಯಗಳು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.</string>
+    <string name="note_on_verse">ವಚನ %1$d ಕುರಿತು ಟಿಪ್ಪಣಿ</string><string name="personal_note">ವೈಯಕ್ತಿಕ ಟಿಪ್ಪಣಿ</string><string name="save">ಉಳಿಸಿ</string><string name="cancel">ರದ್ದುಮಾಡಿ</string><string name="close">ಮುಚ್ಚಿ</string>
+    <string name="today_heading">ಇಂದು</string><string name="today_need_prompt">ಇಂದು ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನಿದೆ?</string><string name="daily_verse_heading">ಇಂದಿನ ವಚನ</string><string name="read_this_chapter">ಈ ಅಧ್ಯಾಯವನ್ನು ಓದಿ</string><string name="read_in_context">ಸಂದರ್ಭದೊಂದಿಗೆ ಓದಿ</string><string name="context">ಸಂದರ್ಭ</string><string name="church_fathers">ಚರ್ಚ್ ಪಿತೃಗಳಿಂದ</string><string name="carry_with_you">ಇದನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಇರಿಸಿಕೊಳ್ಳಿ</string>
+    <string name="lectionary_heading">ದಿನದ ಮಸ್ಸಿನ ವಾಚನಗಳು</string><string name="today_button">ಇಂದು</string><string name="calendar_unavailable">ಕ್ಯಾಲೆಂಡರ್ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ.</string><string name="citations_missing">ಈ ದಿನಾಂಕದ ವಾಚನ ಉಲ್ಲೇಖಗಳು ಇನ್ನೂ ಲಭ್ಯವಿಲ್ಲ.</string><string name="open_in_bible">ಬೈಬಲ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="library_heading">ಗ್ರಂಥಾಲಯ</string><string name="translations_heading">ಅನುವಾದಗಳು</string><string name="widgets_heading">ವಿಡ್ಜೆಟ್‌ಗಳು</string><string name="widgets_empty">Verbum ವಿಡ್ಜೆಟ್‌ಗಳನ್ನು ಇನ್ನೂ ಸೇರಿಸಿಲ್ಲ.</string><string name="edit">ಸಂಪಾದಿಸಿ</string><string name="add_verse">ವಚನ ಸೇರಿಸಿ</string><string name="add_lectionary">ವಾಚನ ಸೇರಿಸಿ</string><string name="download">ಡೌನ್‌ಲೋಡ್</string><string name="installed">ಸ್ಥಾಪಿಸಲಾಗಿದೆ</string><string name="source_license">ಮೂಲ ಮತ್ತು ಪರವಾನಗಿ</string>
+    <string name="daily_reflection_unavailable">ಇಂದಿನ ಧ್ಯಾನ ಲಭ್ಯವಿಲ್ಲ.</string><string name="offline_bible_missing">ಆಫ್‌ಲೈನ್ ಬೈಬಲ್ ಸ್ಥಾಪಿಸಿಲ್ಲ.</string><string name="region_66_warning">ಕೆಲವು ಆವೃತ್ತಿಗಳಲ್ಲಿ 66 ಪುಸ್ತಕಗಳಷ್ಟೇ ಇವೆ; ಹೆಚ್ಚುವರಿ ಧರ್ಮಗ್ರಂಥಗಳು ಸೇರಿಲ್ಲ.</string><string name="read_complete_canon">ಪೂರ್ಣ ಕ್ಯಾಥೋಲಿಕ್ ಗ್ರಂಥಗಳಿಗಾಗಿ %1$s ನಲ್ಲಿ ಓದಿ</string><string name="verse_number">ವಚನ %1$d</string>
+    <string name="previous_verse">ಹಿಂದಿನ ವಚನ</string><string name="next_verse">ಮುಂದಿನ ವಚನ</string><string name="pause">ವಿರಾಮ</string><string name="play">ಚಲಾಯಿಸಿ</string><string name="stop">ನಿಲ್ಲಿಸಿ</string><string name="daily_verse_widget">ಇಂದಿನ ವಚನ</string><string name="daily_lectionary_widget">ಇಂದಿನ ಮಸ್ಸಿನ ವಾಚನಗಳು</string><string name="widget_instance">ವಿಡ್ಜೆಟ್ %1$d</string><string name="use_translation">ಈ ಅನುವಾದ ಬಳಸಿ</string><string name="active_translation">ಪ್ರಸ್ತುತ ಅನುವಾದ</string><string name="full_catholic_set_default">ಡೀಫಾಲ್ಟ್ ಆವೃತ್ತಿ · ಸಂಪೂರ್ಣ ಕ್ಯಾಥೋಲಿಕ್ ಗ್ರಂಥಗಳು · ಆಧುನಿಕ ಇಂಗ್ಲಿಷ್</string><string name="font_scale_label">ಅಕ್ಷರದ ಗಾತ್ರ</string><string name="liturgical_tradition">ಆರಾಧನಾ ಸಂಪ್ರದಾಯ</string>
+    <string name="need_all">ಎಲ್ಲವೂ</string><string name="need_anxiety">ಚಿಂತೆ</string><string name="need_grief">ದುಃಖ</string><string name="need_guidance">ಮಾರ್ಗದರ್ಶನ</string><string name="need_peace">ಶಾಂತಿ</string><string name="need_hope">ನಿರೀಕ್ಷೆ</string><string name="need_trust">ನಂಬಿಕೆ</string><string name="need_hardship">ಕಷ್ಟ</string>
+    <string name="reading_history">ಓದುವ ಇತಿಹಾಸ</string><string name="toggle_bookmark">ಬುಕ್‌ಮಾರ್ಕ್ ಬದಲಿಸಿ</string><string name="toggle_highlight">ಹೈಲೈಟ್ ಬದಲಿಸಿ</string><string name="add_or_edit_note">ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ ಅಥವಾ ತಿದ್ದಿ</string><string name="stop_playback">ಪ್ಲೇಬ್ಯಾಕ್ ನಿಲ್ಲಿಸಿ</string>
+    <string name="coming_soon">ಶೀಘ್ರದಲ್ಲೇ</string>
+    <string name="regional_catholic_editions_coming_soon">ಮಲಯಾಳಂ, ತಮಿಳು, ಹಿಂದಿ, ತೆಲುಗು, ಕನ್ನಡ ಮತ್ತು ಮರಾಠಿಯ ಸಂಪೂರ್ಣ ಕ್ಯಾಥೋಲಿಕ್ ಬೈಬಲ್ ಆವೃತ್ತಿಗಳು ಶೀಘ್ರದಲ್ಲೇ ಲಭ್ಯವಾಗಲಿವೆ. ಕೆಳಗಿನ ಪ್ರಾದೇಶಿಕ ಡೌನ್‌ಲೋಡ್‌ಗಳಲ್ಲಿ 66 ಪುಸ್ತಕಗಳಿವೆ.</string>
+    <string name="complete_catholic_edition_coming_soon">ಪೂರ್ಣ 73 ಪುಸ್ತಕಗಳ ಕ್ಯಾಥೋಲಿಕ್ ಆವೃತ್ತಿ ಶೀಘ್ರದಲ್ಲೇ</string>
+    <string name="additional_rites_coming_soon">ಇತರ ಕ್ಯಾಥೋಲಿಕ್ ಆರಾಧನಾ ಸಂಪ್ರದಾಯಗಳು ಮತ್ತು ಅವುಗಳ ಕ್ಯಾಲೆಂಡರ್‌ಗಳು ಶೀಘ್ರದಲ್ಲೇ ಲಭ್ಯವಾಗಲಿವೆ.</string>
+    <string name="readings_for_date_coming_soon">ಈ ದಿನಾಂಕದ ಮಸ್ಸಿನ ವಾಚನ ಉಲ್ಲೇಖಗಳು ಶೀಘ್ರದಲ್ಲೇ ಲಭ್ಯವಾಗಲಿವೆ.</string>
+    <string name="readings_data_coming_soon">ಈ ದಿನಾಂಕದ ವಾಚನಗಳು ಶೀಘ್ರದಲ್ಲೇ ಲಭ್ಯವಾಗಲಿವೆ.</string>
+    <string name="widget_reading_data_missing">ಈ ದಿನಾಂಕದ ವಾಚನ ಮಾಹಿತಿ ಈಗ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="short_verse_widget">ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ಗಾಗಿ ಚಿಕ್ಕ ವಚನ</string>
+    <string name="add_short_verse">ಚಿಕ್ಕ ವಚನದ ವಿಡ್ಜೆಟ್ ಸೇರಿಸಿ</string>
+    <string name="tab_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_heading">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="appearance">ರೂಪ</string>
+    <string name="theme_mode">ಥೀಮ್</string>
+    <string name="theme_system">ಸಿಸ್ಟಮ್</string>
+    <string name="theme_light">ಲೈಟ್</string>
+    <string name="theme_dark">ಡಾರ್ಕ್</string>
+    <string name="dynamic_colors_description">Android 12 ಮತ್ತು ನಂತರದ ಆವೃತ್ತಿಗಳಲ್ಲಿ, ಲಭ್ಯವಿದ್ದರೆ ಬಣ್ಣಗಳು ನಿಮ್ಮ ಸಿಸ್ಟಮ್ ವಾಲ್‌ಪೇಪರ್‌ಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ.</string>
+    <string name="bible_display">ಬೈಬಲ್ ಪ್ರದರ್ಶನ</string>
+    <string name="default_translation">ಡೀಫಾಲ್ಟ್ ಬೈಬಲ್ ಆವೃತ್ತಿ</string>
+    <string name="reader_text_preview">“ಕರ್ತನು ನನ್ನ ಕುರುಬನು; ನನಗೆ ಕೊರತೆಯಿಲ್ಲ.”</string>
+    <string name="widget_contrast_note">ಆಯ್ದ ಬಣ್ಣದ ಮೇಲೆ ಸುಲಭವಾಗಿ ಓದಲು ಅಗತ್ಯವಿದ್ದರೆ ಪಠ್ಯದ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸಲಾಗುತ್ತದೆ.</string>
+</resources>

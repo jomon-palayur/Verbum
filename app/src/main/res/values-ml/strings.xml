@@ -1,0 +1,36 @@
+<resources>
+    <string name="daily_verse_widget_description">ഇന്നത്തെ തിരുവചന വാക്യം</string><string name="lectionary_widget_description">ഇന്നത്തെ തിരുക്കർമ്മ വായനകൾ</string>
+    <string name="tab_today">ഇന്ന്</string><string name="tab_readings">വായനകൾ</string><string name="tab_bible">ബൈബിൾ</string><string name="tab_library">ശേഖരം</string>
+    <string name="listen">കേൾക്കുക</string><string name="previous_chapter">‹ മുമ്പത്തെ</string><string name="next_chapter">അടുത്തത് ›</string>
+    <string name="search_bible">ബൈബിൾ തിരയുക</string><string name="search_this_bible">ഈ ബൈബിളിൽ തിരയുക</string><string name="search_word_or_phrase">വാക്കോ വാക്യമോ</string><string name="no_matches">ഫലങ്ങളൊന്നും കണ്ടെത്തിയില്ല.</string>
+    <string name="saved_verses">സൂക്ഷിച്ച വാക്യങ്ങൾ</string><string name="bookmarks_empty">നിങ്ങളുടെ ബുക്ക്‌മാർക്കുകൾ ഇവിടെ കാണിക്കും.</string><string name="continue_reading">വായന തുടരുക</string><string name="history_empty">നിങ്ങൾ വായിച്ച അധ്യായങ്ങൾ ഇവിടെ കാണിക്കും.</string>
+    <string name="note_on_verse">വാക്യം %1$d-നെക്കുറിച്ചുള്ള കുറിപ്പ്</string><string name="personal_note">വ്യക്തിഗത കുറിപ്പ്</string><string name="save">സൂക്ഷിക്കുക</string><string name="cancel">റദ്ദാക്കുക</string><string name="close">അടയ്ക്കുക</string>
+    <string name="today_heading">ഇന്ന്</string><string name="today_need_prompt">ഇന്ന് നിങ്ങളുടെ മനസ്സിലുള്ളത് എന്താണ്?</string><string name="daily_verse_heading">ഇന്നത്തെ തിരുവചനം</string><string name="read_this_chapter">ഈ അധ്യായം വായിക്കുക</string><string name="read_in_context">സന്ദർഭത്തോടെ വായിക്കുക</string><string name="context">സന്ദർഭം</string><string name="church_fathers">സഭാപിതാക്കന്മാരിൽ നിന്ന്</string><string name="carry_with_you">ഇത് ഹൃദയത്തിൽ സൂക്ഷിക്കുക</string>
+    <string name="lectionary_heading">തിരുക്കർമ്മ വായനകൾ</string><string name="today_button">ഇന്ന്</string><string name="calendar_unavailable">കലണ്ടർ വിവരങ്ങൾ ലഭ്യമല്ല.</string><string name="citations_missing">ഈ തീയതിയിലെ വായനാ സൂചനകൾ ഇപ്പോൾ ലഭ്യമല്ല.</string><string name="open_in_bible">ബൈബിളിൽ തുറക്കുക</string>
+    <string name="library_heading">ശേഖരം</string><string name="translations_heading">പരിഭാഷകൾ</string><string name="widgets_heading">വിജറ്റുകൾ</string><string name="widgets_empty">Verbum വിജറ്റുകൾ ചേർത്തിട്ടില്ല.</string><string name="edit">തിരുത്തുക</string><string name="add_verse">വാക്യം ചേർക്കുക</string><string name="add_lectionary">വായനകൾ ചേർക്കുക</string><string name="download">ഡൗൺലോഡ്</string><string name="installed">ഇൻസ്റ്റാൾ ചെയ്തു</string><string name="source_license">ഉറവിടവും ലൈസൻസും</string>
+    <string name="daily_reflection_unavailable">ഇന്നത്തെ ധ്യാനം ലഭ്യമല്ല.</string><string name="offline_bible_missing">ഓഫ്‌ലൈൻ ബൈബിൾ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല.</string><string name="region_66_warning">ചില പതിപ്പുകളിൽ 66 പുസ്തകങ്ങൾ മാത്രമേയുള്ളൂ; ദ്വിതീയപ്രമാണ പുസ്തകങ്ങൾ ഉൾപ്പെട്ടിട്ടില്ല.</string><string name="read_complete_canon">പൂർണ്ണ കാനോനിനായി %1$s-ൽ വായിക്കുക</string><string name="verse_number">വാക്യം %1$d</string>
+    <string name="previous_verse">മുമ്പത്തെ വാക്യം</string><string name="next_verse">അടുത്ത വാക്യം</string><string name="pause">താൽക്കാലികമായി നിർത്തുക</string><string name="play">പ്ലേ ചെയ്യുക</string><string name="stop">നിർത്തുക</string><string name="daily_verse_widget">ദിവസവാക്യം</string><string name="daily_lectionary_widget">ദിവസത്തെ വായനകൾ</string><string name="widget_instance">വിജറ്റ് %1$d</string><string name="use_translation">ഈ പരിഭാഷ ഉപയോഗിക്കുക</string><string name="active_translation">നിലവിലെ പരിഭാഷ</string><string name="full_catholic_set_default">സ്ഥിര പതിപ്പ് · പൂർണ്ണ കത്തോലിക്കാ ബൈബിൾ · ആധുനിക ഇംഗ്ലീഷ്</string><string name="font_scale_label">അക്ഷര വലുപ്പം</string><string name="liturgical_tradition">ആരാധനാ പാരമ്പര്യം</string>
+    <string name="need_all">എല്ലാം</string><string name="need_anxiety">ആകുലത</string><string name="need_grief">ദുഃഖം</string><string name="need_guidance">മാർഗ്ഗനിർദ്ദേശം</string><string name="need_peace">സമാധാനം</string><string name="need_hope">പ്രത്യാശ</string><string name="need_trust">വിശ്വാസം</string><string name="need_hardship">കഷ്ടത</string>
+    <string name="reading_history">വായനാ ചരിത്രം</string><string name="toggle_bookmark">ബുക്ക്‌മാർക്ക് മാറ്റുക</string><string name="toggle_highlight">ഹൈലൈറ്റ് മാറ്റുക</string><string name="add_or_edit_note">കുറിപ്പ് ചേർക്കുക അല്ലെങ്കിൽ തിരുത്തുക</string><string name="stop_playback">ഓഡിയോ നിർത്തുക</string>
+    <string name="coming_soon">ഉടൻ വരുന്നു</string>
+    <string name="regional_catholic_editions_coming_soon">മലയാളം, തമിഴ്, ഹിന്ദി, തെലുങ്ക്, കന്നഡ, മറാത്തി ഭാഷകളിലെ പൂർണ്ണ കത്തോലിക്കാ ബൈബിൾ പതിപ്പുകൾ ഉടൻ ലഭ്യമാകും. താഴെയുള്ള പ്രാദേശിക ഡൗൺലോഡുകളിൽ 66 പുസ്തകങ്ങളാണുള്ളത്.</string>
+    <string name="complete_catholic_edition_coming_soon">73 പുസ്തകങ്ങളുള്ള പൂർണ്ണ കത്തോലിക്കാ പതിപ്പ് ഉടൻ വരുന്നു</string>
+    <string name="additional_rites_coming_soon">മറ്റ് കത്തോലിക്കാ ആരാധനാപാരമ്പര്യങ്ങളും അവയുടെ കലണ്ടറുകളും ഉടൻ വരുന്നു.</string>
+    <string name="readings_for_date_coming_soon">ഈ തീയതിയിലെ തിരുക്കർമ്മ വായനകൾ ഉടൻ ലഭ്യമാകും.</string>
+    <string name="readings_data_coming_soon">ഈ തീയതിയിലെ വായനകൾ ഉടൻ ലഭ്യമാകും.</string>
+    <string name="widget_reading_data_missing">ഈ തീയതിയിലെ വായനാ വിവരങ്ങൾ ഇപ്പോൾ ലഭ്യമല്ല.</string>
+    <string name="short_verse_widget">ലോക്ക് സ്ക്രീനിനുള്ള ചെറിയ വചനം</string>
+    <string name="add_short_verse">ചെറിയ വചന വിഡ്ജറ്റ് ചേർക്കുക</string>
+    <string name="tab_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="settings_heading">ക്രമീകരണങ്ങൾ</string>
+    <string name="appearance">രൂപം</string>
+    <string name="theme_mode">തീം</string>
+    <string name="theme_system">സിസ്റ്റം</string>
+    <string name="theme_light">ലൈറ്റ്</string>
+    <string name="theme_dark">ഡാർക്ക്</string>
+    <string name="dynamic_colors_description">Android 12-ലും അതിനുശേഷമുള്ള പതിപ്പുകളിലും ലഭ്യമെങ്കിൽ നിറങ്ങൾ നിങ്ങളുടെ സിസ്റ്റം വാൾപേപ്പറിനെ പിന്തുടരും.</string>
+    <string name="bible_display">ബൈബിൾ പ്രദർശനം</string>
+    <string name="default_translation">സ്ഥിര ബൈബിൾ പതിപ്പ്</string>
+    <string name="reader_text_preview">“കർത്താവ് എന്റെ ഇടയനാകുന്നു; എനിക്കു മുട്ടുണ്ടാകയില്ല.”</string>
+    <string name="widget_contrast_note">തിരഞ്ഞെടുത്ത നിറത്തിൽ വായനാസൗകര്യം നിലനിർത്താൻ ആവശ്യമായാൽ എഴുത്തിന്റെ നിറം ക്രമീകരിക്കും.</string>
+</resources>

@@ -1,0 +1,35 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Local Android signing and developer configuration
+keystore.properties
+secrets.properties
+*.jks
+*.keystore
+*.pem
+
+# Generated packages and local reports
+*.apk
+*.aab
+*.ap_
+*.log
+captures/
+.DS_Store
+Thumbs.db
+
+# Internal product-planning and assistant-specific working files
+/Product Requirements.md
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.cursorrules
+.cursor/
+.codex/
+.claude/
+.gemini/
+prompts/
+**/*.prompt.md
+**/*-prompt.md

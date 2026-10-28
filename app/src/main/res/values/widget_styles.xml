@@ -1,0 +1,43 @@
+<resources>
+    <style name="ShortVerseText.Base" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizeMinTextSize">10sp</item>
+        <item name="android:autoSizeMaxTextSize">18sp</item>
+        <item name="android:autoSizeStepGranularity">1sp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="ShortVerseText.Serif" parent="ShortVerseText.Base">
+        <item name="android:fontFamily">serif</item>
+    </style>
+    <style name="ShortVerseText.Serif.Shadow" parent="ShortVerseText.Serif">
+        <item name="android:shadowColor">#99000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="ShortVerseText.Sans" parent="ShortVerseText.Base">
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="ShortVerseText.Sans.Shadow" parent="ShortVerseText.Sans">
+        <item name="android:shadowColor">#99000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="ShortVerseText.Mono" parent="ShortVerseText.Base">
+        <item name="android:fontFamily">monospace</item>
+    </style>
+    <style name="ShortVerseText.Mono.Shadow" parent="ShortVerseText.Mono">
+        <item name="android:shadowColor">#99000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

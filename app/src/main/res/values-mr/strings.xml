@@ -1,0 +1,36 @@
+<resources>
+    <string name="daily_verse_widget_description">आजचे बायबल वचन</string><string name="lectionary_widget_description">आजची मिस्साची वाचने</string>
+    <string name="tab_today">आज</string><string name="tab_readings">वाचने</string><string name="tab_bible">बायबल</string><string name="tab_library">ग्रंथालय</string>
+    <string name="listen">ऐका</string><string name="previous_chapter">‹ मागील</string><string name="next_chapter">पुढील ›</string>
+    <string name="search_bible">बायबल शोधा</string><string name="search_this_bible">या बायबलमध्ये शोधा</string><string name="search_word_or_phrase">शब्द किंवा वाक्यांश</string><string name="no_matches">काहीही सापडले नाही.</string>
+    <string name="saved_verses">जतन केलेली वचने</string><string name="bookmarks_empty">तुमची जतन केलेली वचने येथे दिसतील.</string><string name="continue_reading">वाचन पुढे सुरू ठेवा</string><string name="history_empty">तुम्ही वाचलेले अध्याय येथे दिसतील.</string>
+    <string name="note_on_verse">वचन %1$d वरील नोंद</string><string name="personal_note">वैयक्तिक नोंद</string><string name="save">जतन करा</string><string name="cancel">रद्द करा</string><string name="close">बंद करा</string>
+    <string name="today_heading">आज</string><string name="today_need_prompt">आज तुमच्या मनात काय आहे?</string><string name="daily_verse_heading">आजचे वचन</string><string name="read_this_chapter">हा अध्याय वाचा</string><string name="read_in_context">संदर्भासह वाचा</string><string name="context">संदर्भ</string><string name="church_fathers">चर्च फादर्सकडून</string><string name="carry_with_you">हे मनात ठेवा</string>
+    <string name="lectionary_heading">आजच्या मिस्साची वाचने</string><string name="today_button">आज</string><string name="calendar_unavailable">दिनदर्शिकेची माहिती उपलब्ध नाही.</string><string name="citations_missing">या तारखेची वाचन-संदर्भ सूची अद्याप उपलब्ध नाही.</string><string name="open_in_bible">बायबलमध्ये उघडा</string>
+    <string name="library_heading">ग्रंथालय</string><string name="translations_heading">भाषांतरे</string><string name="widgets_heading">विजेट्स</string><string name="widgets_empty">Verbum विजेट्स अजून जोडलेले नाहीत.</string><string name="edit">संपादित करा</string><string name="add_verse">वचन जोडा</string><string name="add_lectionary">वाचने जोडा</string><string name="download">डाउनलोड</string><string name="installed">स्थापित</string><string name="source_license">स्रोत आणि परवाना</string>
+    <string name="daily_reflection_unavailable">आजचे चिंतन उपलब्ध नाही.</string><string name="offline_bible_missing">ऑफलाइन बायबल स्थापित नाही.</string><string name="region_66_warning">काही आवृत्त्यांत फक्त 66 पुस्तके आहेत; अतिरिक्त धर्मग्रंथ समाविष्ट नाहीत.</string><string name="read_complete_canon">पूर्ण कॅथोलिक ग्रंथांसाठी %1$s मध्ये वाचा</string><string name="verse_number">वचन %1$d</string>
+    <string name="previous_verse">मागील वचन</string><string name="next_verse">पुढील वचन</string><string name="pause">थांबा</string><string name="play">चालवा</string><string name="stop">बंद करा</string><string name="daily_verse_widget">आजचे वचन</string><string name="daily_lectionary_widget">आजची मिस्साची वाचने</string><string name="widget_instance">विजेट %1$d</string><string name="use_translation">हे भाषांतर वापरा</string><string name="active_translation">सध्याचे भाषांतर</string><string name="full_catholic_set_default">मूळ आवृत्ती · पूर्ण कॅथोलिक ग्रंथसंच · आधुनिक इंग्रजी</string><string name="font_scale_label">मजकूराचा आकार</string><string name="liturgical_tradition">उपासना परंपरा</string>
+    <string name="need_all">सर्व</string><string name="need_anxiety">चिंता</string><string name="need_grief">दुःख</string><string name="need_guidance">मार्गदर्शन</string><string name="need_peace">शांती</string><string name="need_hope">आशा</string><string name="need_trust">विश्वास</string><string name="need_hardship">कठीण प्रसंग</string>
+    <string name="reading_history">वाचन इतिहास</string><string name="toggle_bookmark">बुकमार्क बदला</string><string name="toggle_highlight">हायलाइट बदला</string><string name="add_or_edit_note">नोंद जोडा किंवा संपादित करा</string><string name="stop_playback">प्लेबॅक थांबवा</string>
+    <string name="coming_soon">लवकरच</string>
+    <string name="regional_catholic_editions_coming_soon">मल्याळम, तमिळ, हिंदी, तेलुगू, कन्नड आणि मराठीतील संपूर्ण कॅथोलिक बायबल आवृत्त्या लवकरच उपलब्ध होतील. खालील प्रादेशिक डाउनलोडमध्ये 66 पुस्तके आहेत.</string>
+    <string name="complete_catholic_edition_coming_soon">पूर्ण 73 पुस्तकांची कॅथोलिक आवृत्ती लवकरच</string>
+    <string name="additional_rites_coming_soon">इतर कॅथोलिक उपासना परंपरा आणि त्यांची दिनदर्शिका लवकरच उपलब्ध होतील.</string>
+    <string name="readings_for_date_coming_soon">या तारखेच्या मिस्साची वाचन-संदर्भ सूची लवकरच उपलब्ध होईल.</string>
+    <string name="readings_data_coming_soon">या तारखेची वाचने लवकरच उपलब्ध होतील.</string>
+    <string name="widget_reading_data_missing">या तारखेची वाचन माहिती सध्या उपलब्ध नाही.</string>
+    <string name="short_verse_widget">लॉक स्क्रीनसाठी लहान वचन</string>
+    <string name="add_short_verse">लहान वचन विजेट जोडा</string>
+    <string name="tab_settings">सेटिंग्ज</string>
+    <string name="settings_heading">सेटिंग्ज</string>
+    <string name="appearance">दिसणे</string>
+    <string name="theme_mode">थीम</string>
+    <string name="theme_system">सिस्टम</string>
+    <string name="theme_light">फिकट</string>
+    <string name="theme_dark">गडद</string>
+    <string name="dynamic_colors_description">Android 12 आणि त्यानंतरच्या आवृत्त्यांमध्ये उपलब्ध असल्यास रंग तुमच्या सिस्टम वॉलपेपरनुसार बदलतात.</string>
+    <string name="bible_display">बायबल प्रदर्शन</string>
+    <string name="default_translation">डीफॉल्ट बायबल आवृत्ती</string>
+    <string name="reader_text_preview">“परमेश्वर माझा मेंढपाळ आहे; मला काही उणे पडणार नाही.”</string>
+    <string name="widget_contrast_note">निवडलेल्या रंगावर मजकूर वाचनीय राहावा यासाठी गरजेनुसार मजकुराचा रंग बदलला जाईल.</string>
+</resources>
